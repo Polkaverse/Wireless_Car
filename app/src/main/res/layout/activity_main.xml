@@ -22,7 +22,7 @@
     <Button
         android:id="@+id/forward_left_btn"
         android:layout_width="wrap_content"
-        android:layout_height="80dp"
+        android:layout_height="81dp"
 
         android:layout_alignParentStart="true"
         android:layout_below="@+id/forward_btn"
