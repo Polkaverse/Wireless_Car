@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
             {
                 if(event.getAction() == MotionEvent.ACTION_DOWN)
                 {
-                    command = "2";
+                    command = "2"; // the signal which you want to transfer.
 
                     try
                     {
